@@ -1,6 +1,5 @@
 <h1>Covert Money</h1>
 <br>
-<br>
 <h2>Conheça o Conversor de Moedas em Tempo Real</h2>
 <p>Bem-vindo ao nosso Conversor de Moedas em Tempo Real, uma ferramenta desenvolvida para <br>
   proporcionar praticidade e precisão nas conversões monetárias. Criado utilizando HTML, CSS e <br>
@@ -43,9 +42,10 @@
 </ol>
 <h2>Modelo</h2>
 <br>
-<img />
+<img src="https://raw.githubusercontent.com/Iurypierot/Convert-Money-/601bc3e26521ebc1e482647c570a0ec7e9cb7383/assets/github.png"/>
 <br>
 <h2>Tecnologia usada:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
